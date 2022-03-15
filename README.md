@@ -1,2 +1,2 @@
 # Learn-github
-## Teat Heading
+## Test Heading
