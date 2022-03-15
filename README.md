@@ -1,2 +1,2 @@
 # Learn-github
-## Teat Heading
+## Teast Heading
